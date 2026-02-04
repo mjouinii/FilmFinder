@@ -1,0 +1,496 @@
+100
+Le Parrain
+1972
+Francis Ford Coppola
+175
+anglais
+Pulp Fiction
+1994
+Quentin Tarantino
+154
+anglais
+La Liste de Schindler
+1993
+Steven Spielberg
+195
+anglais
+Le Seigneur des Anneaux: Le Retour du Roi
+2003
+Peter Jackson
+201
+anglais
+Parasite
+2019
+Bong Joon-ho
+132
+coreen
+Forrest Gump
+1994
+Robert Zemeckis
+142
+anglais
+Inception
+2010
+Christopher Nolan
+148
+anglais
+Fight Club
+1999
+David Fincher
+139
+anglais
+The Matrix
+1999
+Lana Wachowski
+136
+anglais
+Goodfellas
+1990
+Martin Scorsese
+146
+anglais
+Le Silence des Agneaux
+1991
+Jonathan Demme
+118
+anglais
+Interstellar
+2014
+Christopher Nolan
+169
+anglais
+La Vie est Belle
+1997
+Roberto Benigni
+116
+italien
+Les Evades
+1994
+Frank Darabont
+142
+anglais
+Le Chevalier Noir
+2008
+Christopher Nolan
+152
+anglais
+La Haine
+1995
+Mathieu Kassovitz
+98
+francais
+Amelie Poulain
+2001
+Jean-Pierre Jeunet
+122
+francais
+Gladiator
+2000
+Ridley Scott
+155
+anglais
+Titanic
+1997
+James Cameron
+194
+anglais
+Avatar
+2009
+James Cameron
+162
+anglais
+Les Intouchables
+2011
+Olivier Nakache
+112
+francais
+Le Pianiste
+2002
+Roman Polanski
+150
+anglais
+Retour vers le Futur
+1985
+Robert Zemeckis
+116
+anglais
+Star Wars: L'Empire Contre-Attaque
+1980
+Irvin Kershner
+124
+anglais
+Psychose
+1960
+Alfred Hitchcock
+109
+anglais
+Sueurs Froides
+1958
+Alfred Hitchcock
+128
+anglais
+Casablanca
+1942
+Michael Curtiz
+102
+anglais
+La Dolce Vita
+1960
+Federico Fellini
+174
+italien
+Citizen Kane
+1941
+Orson Welles
+119
+anglais
+Vol au-dessus d'un Nid de Coucou
+1975
+Milos Forman
+133
+anglais
+Le Prestige
+2006
+Christopher Nolan
+130
+anglais
+The Departed
+2006
+Martin Scorsese
+151
+anglais
+Les Affranchis
+1990
+Martin Scorsese
+146
+anglais
+Le Roi Lion
+1994
+Roger Allers
+88
+anglais
+Toy Story
+1995
+John Lasseter
+81
+anglais
+Coco
+2017
+Lee Unkrich
+105
+anglais
+Your Name
+2016
+Makoto Shinkai
+106
+japonais
+Le Voyage de Chihiro
+2001
+Hayao Miyazaki
+125
+japonais
+Princess Mononoke
+1997
+Hayao Miyazaki
+134
+japonais
+Akira
+1988
+Katsuhiro Otomo
+124
+japonais
+Oldboy
+2003
+Park Chan-wook
+120
+coreen
+Memories of Murder
+2003
+Bong Joon-ho
+132
+coreen
+La La Land
+2016
+Damien Chazelle
+128
+anglais
+Whiplash
+2014
+Damien Chazelle
+106
+anglais
+1917
+2019
+Sam Mendes
+119
+anglais
+Dunkerque
+2017
+Christopher Nolan
+106
+anglais
+Mad Max: Fury Road
+2015
+George Miller
+120
+anglais
+Blade Runner
+1982
+Ridley Scott
+117
+anglais
+Blade Runner 2049
+2017
+Denis Villeneuve
+164
+anglais
+Arrival
+2016
+Denis Villeneuve
+116
+anglais
+Dune
+2021
+Denis Villeneuve
+155
+anglais
+Le Grand Budapest Hotel
+2014
+Wes Anderson
+100
+anglais
+Moonrise Kingdom
+2012
+Wes Anderson
+94
+anglais
+Drive
+2011
+Nicolas Winding Refn
+100
+anglais
+La Nuit du Chasseur
+1955
+Charles Laughton
+92
+anglais
+Apocalypse Now
+1979
+Francis Ford Coppola
+147
+anglais
+Taxi Driver
+1976
+Martin Scorsese
+114
+anglais
+Raging Bull
+1980
+Martin Scorsese
+129
+anglais
+Le Laureat
+1967
+Mike Nichols
+106
+anglais
+Reservoir Dogs
+1992
+Quentin Tarantino
+99
+anglais
+Kill Bill: Volume 1
+2003
+Quentin Tarantino
+111
+anglais
+Django Unchained
+2012
+Quentin Tarantino
+165
+anglais
+Inglourious Basterds
+2009
+Quentin Tarantino
+153
+anglais
+Il Faut Sauver le Soldat Ryan
+1998
+Steven Spielberg
+169
+anglais
+E.T. l'Extra-Terrestre
+1982
+Steven Spielberg
+115
+anglais
+Jurassic Park
+1993
+Steven Spielberg
+127
+anglais
+Les Dents de la Mer
+1975
+Steven Spielberg
+124
+anglais
+Alien
+1979
+Ridley Scott
+117
+anglais
+Aliens
+1986
+James Cameron
+137
+anglais
+Terminator 2
+1991
+James Cameron
+137
+anglais
+Heat
+1995
+Michael Mann
+170
+anglais
+Le Fabuleux Destin d'Amelie Poulain
+2001
+Jean-Pierre Jeunet
+122
+francais
+Delicatessen
+1991
+Jean-Pierre Jeunet
+99
+francais
+Le Cinquieme Element
+1997
+Luc Besson
+126
+francais
+Leon
+1994
+Luc Besson
+110
+francais
+La Cite de Dieu
+2002
+Fernando Meirelles
+130
+portugais
+Amores Perros
+2000
+Alejandro Gonzalez Inarritu
+154
+espagnol
+Y Tu Mama Tambien
+2001
+Alfonso Cuaron
+106
+espagnol
+Roma
+2018
+Alfonso Cuaron
+135
+espagnol
+Gravity
+2013
+Alfonso Cuaron
+91
+anglais
+Les Enfants du Paradis
+1945
+Marcel Carne
+190
+francais
+Jules et Jim
+1962
+Francois Truffaut
+105
+francais
+A Bout de Souffle
+1960
+Jean-Luc Godard
+90
+francais
+Le Mepris
+1963
+Jean-Luc Godard
+103
+francais
+8 1/2
+1963
+Federico Fellini
+138
+italien
+Amarcord
+1973
+Federico Fellini
+123
+italien
+Le Guepard
+1963
+Luchino Visconti
+186
+italien
+Cinema Paradiso
+1988
+Giuseppe Tornatore
+155
+italien
+La Grande Bellezza
+2013
+Paolo Sorrentino
+142
+italien
+Ran
+1985
+Akira Kurosawa
+162
+japonais
+Les Sept Samourais
+1954
+Akira Kurosawa
+207
+japonais
+Rashomon
+1950
+Akira Kurosawa
+88
+japonais
+Yojimbo
+1961
+Akira Kurosawa
+110
+japonais
+In the Mood for Love
+2000
+Wong Kar-wai
+98
+cantonais
+Chungking Express
+1994
+Wong Kar-wai
+102
+cantonais
+Moulin Rouge
+2001
+Baz Luhrmann
+127
+anglais
+The Truman Show
+1998
+Peter Weir
+103
+anglais
+Le Fabuleux Destin d'Amelie Poulain
+2001
+Jean-Pierre Jeunet
+122
+francais
+No Country for Old Men
+2007
+Joel Coen
+122
+anglais
